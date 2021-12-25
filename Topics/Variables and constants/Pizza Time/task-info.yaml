@@ -1,0 +1,9 @@
+type: code
+files:
+- name: main.go
+  visible: true
+  text: "// You are in a body of main    \n// Is that a Spider-man 2 referense?"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14476#comment
+status: Unchecked
+record: -1

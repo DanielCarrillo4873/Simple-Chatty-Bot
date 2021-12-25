@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: To create a custom type.
+- text: To declare a block of constants that are distinct from each other.
+- text: To set a certain value.
+- text: To provide for secure and efficient data transmission.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.go
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14472#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 23 Dec 2021 04:31:42 UTC
+record: -1
+selected_options:
+- 1
